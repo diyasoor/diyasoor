@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">Hi 👋, I'm Diya Soor</h1>
-<h3 align="center">A coder 🥸 who loves to code on Leetcode</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyasoor&label=Profile%20views&color=0e75b6&style=flat" alt="diyasoor" /> </p>
 
