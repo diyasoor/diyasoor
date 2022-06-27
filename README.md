@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img width="800" height="300" src="https://i.pinimg.com/originals/a0/e4/82/a0e48255ce8d676347e146cacae79998.gif" alt="Diya's Banner">
+<img width="700" height="200" src="https://i.pinimg.com/originals/a0/e4/82/a0e48255ce8d676347e146cacae79998.gif" alt="Diya's Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Diya Soor</h1>
