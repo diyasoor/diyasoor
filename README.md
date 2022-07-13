@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **my DSA skills**
 
-- 🌱 I’m currently learning **everything 😉**
+- 🌱 I’m currently learning **everything 🙂**
 
 - 📫 How to reach me **diyasoor@gmail.com**
 
