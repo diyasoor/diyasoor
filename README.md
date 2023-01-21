@@ -53,7 +53,13 @@
 </p>
 
 ### Spotify Playing 🎧
-[![Spotify](https://spotify-now-playing-sable-six.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)
+[![Spotify](https://spotify-now-playing-5lcae9ocm-diyasoor.vercel.app/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)
+
+<!--&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
+-->
+
 
 <!--[![Diya's Spotify](https://spotify-now-playing-git-master-diyasoor.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)-->
 
