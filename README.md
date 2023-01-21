@@ -54,7 +54,7 @@
 <!-- https://spotify-now-playing-diyasoor.vercel.app/ -->
 <!--
 ### Spotify Playing 🎧
-[![Spotify](https://diyasoor.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)
+[![Spotify](https://spotify-now-playing-5lcae9ocm-diyasoor.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)
 [![Spotify](https://itstommi.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)
 -->
 <!--
