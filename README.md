@@ -53,8 +53,9 @@
 </p>
 
 ### Spotify Playing 🎧
+[![Spotify](https://spotify-now-playing-sable-six.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)
 
-[![Spotify](https://spotify-now-playing-git-master-diyasoor.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)
+<!--[![Diya's Spotify](https://spotify-now-playing-git-master-diyasoor.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)-->
 
 
 
