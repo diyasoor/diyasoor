@@ -52,7 +52,10 @@
     </a>
 </p>
 
-[<img src="https://spotify-now-playing-diyasoor.vercel.app/api/spotify" alt="Diya Soor" width="350"/>](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)
-<!-- [![Spotify](https://spotify-now-playing-diyasoor.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp) -->
+### Spotify Playing 🎧
+
+[![Spotify](https://spotify-now-playing-git-master-diyasoor.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)
+
+
 
 <!--  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diyasoor&theme=radical) -->
