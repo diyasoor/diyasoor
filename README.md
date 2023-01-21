@@ -51,10 +51,19 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Diya Soor's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=diyasoor"/>
     </a>
 </p>
-
-### Spotify Playing 🎧
 <!-- https://spotify-now-playing-diyasoor.vercel.app/ -->
-[![Spotify](https://spotify-now-playing-diyasoor.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)
+<!--
+### Spotify Playing 🎧
+[![Spotify](https://diyasoor.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)
+[![Spotify](https://itstommi.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)
+-->
+<!--
+<h3>🎶 Vibing to</h3>
+<a href="https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp">
+  <img src="https://spotify-now-playing-diyasoor.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+</a>
+-->
+
 
 <!--&nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
