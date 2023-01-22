@@ -50,7 +50,11 @@
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Diya Soor's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=diyasoor"/>
     </a>
-</p>
+</p> 
+
+<!-- [![Spotify](https://novatorem-8iyg-git-master-diyasoor.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp) -->
+
+
 <!-- https://spotify-now-playing-diyasoor.vercel.app/ -->
 <!--
 ### Spotify Playing 🎧
