@@ -52,7 +52,7 @@
     </a>
 </p>
 <!-- https://spotify-now-playing-diyasoor.vercel.app/ -->
-
+<!--
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-now-playing-5lcae9ocm-diyasoor.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)
 [![Spotify](https://itstommi.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)
@@ -62,7 +62,7 @@
 <a href="https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp">
   <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
 </a>
-
+-->
 
 
 <!--&nbsp;<div align="center">
