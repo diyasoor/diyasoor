@@ -52,33 +52,6 @@
     </a>
 </p> 
 
+## 🎧 Currently vibing to:
 
-<!-- [![Spotify](https://spotify-current.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp) -->
-<!-- [![Spotify](https://novatorem-8iyg-git-master-diyasoor.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp) -->
-
-
-<!-- https://spotify-now-playing-diyasoor.vercel.app/ -->
-<!--
-### Spotify Playing 🎧
-[![Spotify](https://spotify-now-playing-5lcae9ocm-diyasoor.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)
-[![Spotify](https://itstommi.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)
-
--->
-<!-- <h3>🎶 Vibing to</h3>
-<a href="https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp">
-  <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
-</a>
- -->
-
-
-<!--&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
-</div>
--->
-
-
-<!--[![Diya's Spotify](https://spotify-now-playing-git-master-diyasoor.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)-->
-
-
-
-<!--  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diyasoor&theme=radical) -->
+[![Spotify Now listening](https://spotify-seven-wine.vercel.app/api?scan=true&theme=dark)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)
