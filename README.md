@@ -46,12 +46,14 @@
 </p>
 <br><br><hr>
 
+## 🎧 Currently vibing to:
+
+[![Spotify Now listening](https://spotify-seven-wine.vercel.app/api?scan=true&theme=dark)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)
+
+<br><br><hr>
 <p align="left">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Diya Soor's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=diyasoor"/>
     </a>
 </p> 
 
-## 🎧 Currently vibing to:
-
-[![Spotify Now listening](https://spotify-seven-wine.vercel.app/api?scan=true&theme=dark)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)
