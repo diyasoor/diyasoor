@@ -52,6 +52,8 @@
     </a>
 </p> 
 
+
+[![Spotify](https://spotify-current.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)
 <!-- [![Spotify](https://novatorem-8iyg-git-master-diyasoor.vercel.app/api/spotify)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp) -->
 
 
