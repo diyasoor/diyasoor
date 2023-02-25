@@ -45,10 +45,9 @@
 <a href="https://www.figma.com/" target="_blank"> <img align="left" alt="Figma" height="29" width="29" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/> </a>
 </p>
 <br><br><hr>
-
+<!--
 ## 🎧 Currently vibing to:
-
-[![Spotify Now listening](https://spotify-seven-wine.vercel.app/api?scan=true&theme=light&rainbow=true)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)
+[![Spotify Now listening](https://spotify-seven-wine.vercel.app/api?scan=true&theme=light&rainbow=true)](https://open.spotify.com/user/mk3u9k7hcvpme8wezhdd0efpp)-->
 
 <p align="left">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
